@@ -1,0 +1,29 @@
+.heading {
+    width: 100%;
+    text-align: left;
+}
+
+.heading h3 {
+    display: inline;
+
+}
+
+.heading button {
+float: right;
+border: 1 px solid whitesmoke;
+}
+
+.big_image {
+width: 100%;
+}
+
+#start , #status{
+    font-size: 30px;
+}
+
+video {
+    background: url('game_console.png');
+     background-size:cover;
+    background-position: center;
+     padding: 25px;
+}
